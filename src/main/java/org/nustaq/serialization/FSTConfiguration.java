@@ -835,7 +835,7 @@ public class FSTConfiguration {
         classRegistry.registerClass(Vector.class,this);
         classRegistry.registerClass(Hashtable.class,this);
         classRegistry.registerClass(BitSet.class,this);
-        classRegistry.registerClass(Timestamp.class, this);
+//        classRegistry.registerClass(Timestamp.class, this);
         classRegistry.registerClass(Locale.class,this);
 
         classRegistry.registerClass(StringBuffer.class,this);
